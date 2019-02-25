@@ -1,0 +1,195 @@
+*{
+	margin:0 ;
+}
+#wrapper
+{
+	width:1024px;
+	margin:0 auto;
+}
+#topnav
+{
+	height:60px;
+	background:#F9F9FB;
+	border-bottom:1px solid #e5e5e5;
+}
+#topdivs
+{  
+    width:260px;
+	float:left;
+	margin-left:100px;
+}
+#topdivs span
+{
+	color:red;
+	border-left:1px solid black;
+}
+#subdivs
+{
+	float:left;
+}
+#subdivs ul
+{
+	list-style:none;
+}
+#subdivs ul li
+{
+	float:left;
+	padding:4px;
+	border:1px solid grey;
+	height:22px;
+	margin-right:3px;
+	background:#ffffff;
+}
+#topdivs p
+{
+	margin-top:10px;
+	padding-right:150px;
+	
+
+}	
+	
+#follow1
+{
+	margin-bottom:10px;
+	float:right;
+}
+#follow1 ul
+{
+	list-style:none;
+}
+#follow1 ul li
+{
+	float:right;
+	border:1px solid black;
+	padding:2px;
+	margin:5px;
+	margin-bottom:20px;
+	
+	
+}
+#logoarea
+{
+	height:90px;
+}
+#logo
+{
+	padding-left:75px;
+	float:left;
+}
+#logo1
+{
+	float:right;
+	margin-top:35px;
+}
+#logo1 span
+{
+	padding:10px;
+	border:1px solid black;
+	margin:5px;
+}
+#menu 
+{
+	height:40px;
+	background:grey;
+	border-bottom:4px solid #E70304;
+}
+#listitems ul 
+{
+	list-style:none;
+	padding-left:90px;
+}
+#listitems ul li
+{
+	float:left;
+	line-height:39px;
+	border-right:1px solid white;
+	width:120px;
+	text-align:center;
+}
+#menu ul li a
+{
+	text-decoration:none;
+	color:white;
+	font-size:15px;
+}
+#menu ul li:hover
+{
+	background:red;
+}
+#sliderimg
+{
+	margin-left:5px;
+	margin-top:7px;
+	padding-right:120px;
+}
+#content
+{
+	width:1002px;
+    height:auto;
+    padding:0px;
+	margin:0px;
+	min-height:80px;
+}
+#contentleft
+{   
+    height:500px;
+	width:810px;
+	margin-top:2px;
+	border:1px solid black;
+	margin-left:1px;
+}
+#head
+{
+	text-align:center;
+}
+#imagecontent
+{
+    height:150px;
+	width:810px;
+	margin-top:3px;
+	
+}
+#imagecontent img
+{
+	height:125px;
+}
+#imagecontent p
+{
+	padding-left:3px;
+    color:#c8c8c8;
+}
+#four
+{
+width:810;
+height:200px;
+
+margin-top:10px;
+margin-left:0px;
+}
+.subparts
+{
+margin:5px;
+margin-top:10px;
+width:180px;
+margin-left:5px;
+margin-right:3px;
+float:left;
+padding:3px;
+}
+.head1
+{
+color:#787878;
+
+}
+.image
+{
+
+margin-top:15px;
+margin-left:2px;
+
+}
+.paragraph
+{
+margin-top:10px;
+color:#878787;
+}

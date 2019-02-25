@@ -1,0 +1,82 @@
+#t_main
+{
+	margin-top:5%
+}
+.grid
+{
+  display:flex;
+}
+#t_bgcover
+{
+	background:#F4F6F7;
+	height:110%
+}
+#t_text
+{
+   font-size:120%;
+   font-family:sans-serif;
+   font-weight:bold;
+   border-top:1.5px solid #777777;
+   padding:2%;
+}
+#t_cover
+{
+  font-size:100%;
+	margin-top:1.5%;
+	height:10%;
+	padding:1%;
+
+}
+/*{
+	margin-top:2%;
+  line-height:10%;
+}*/
+#t_toggle
+{
+  margin-top:2%;
+}
+#t_radiobutton
+{
+	margin-left:60%;
+}
+.control {
+  background-color:darkgrey; 
+  color:white; 
+  margin:12%;
+}
+.control:hover
+{
+    color:white;
+    background:#ddd;
+}
+#t_radiobutton1
+{
+  margin-left:1.2%;
+}
+a
+{
+  display: inline-block;
+ 
+}
+.previous:hover
+{
+  background:grey;
+  color:black;
+}
+.previous {
+  background-color:#A39E9E;
+  font-size:108%;
+  color: white;
+  margin-top:3%;
+  padding:1%;
+  height:12%;
+  margin-left:32%; 
+}
+.next {
+  background-color: #4CAF50;
+   height: 12%;
+   margin-top:3%
+   font-size:110%;
+   padding:1%;
+  color:white; 
+}

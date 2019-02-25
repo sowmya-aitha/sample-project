@@ -1,0 +1,118 @@
+*{
+	margin:0 auto;
+	padding:0;
+}
+#wrapper
+{
+	background-color:darkblue;
+	height:80px;
+}	
+#wrapper h1
+{
+	color:white;
+	margin-left:80px;
+}
+#header
+{
+	float:right;
+}
+#header p
+{
+	color:white;
+	font-size:15px;
+}
+#input
+{
+	margin:5px;
+	
+}
+#header a
+{
+	text-decoration:none;
+}
+#body
+{
+	margin-left:0px;
+	margin-top:0px;
+    background-color:lavender;
+    width:1350px;
+    height:500px;	
+}
+#left
+{
+	background-color:lavender;
+	float:left;
+	margin-top:20px;
+	width:400px;
+	
+}
+#left h3
+{
+	margin-left:20px;
+	margin-top:10px;
+	margin-bottom:10px;
+	color:darkblue;
+}	
+#right
+{
+	float:right;
+	margin-top:20px;
+	background-color:lavender;
+}
+#name
+{
+	margin-top:10px;
+	margin-left:05px;
+	width:180px;
+	height:30px;
+	font-size:15px;
+}
+#mbl
+{
+	margin-top:10px;
+	width:380px;
+	height:30px;
+	font-size:15px;
+}
+#pass
+{
+    margin-top:10px;
+	width:380px;
+	height:30px;
+	font-size:15px;
+}
+#right p
+{
+	margin-top:10px;
+}
+
+	
+#dropdown
+{
+	margin-top:3px;
+	width:70px;
+	height:30px;
+}
+#radio
+{
+	margin-top:15px;
+	
+}
+#signup
+{
+    margin-top:15px;
+	background-color:green;
+	border:1px solid black;
+	width:150px;
+	height:30px;
+	font-size:18px;
+	color:white;
+}
+#footer #lang
+{
+	float:left;
+	font-size:12px;
+	text-decoration:none;
+	padding-left:70px;
+	margin-left:20px;
+}
